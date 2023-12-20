@@ -241,6 +241,7 @@ button:disabled {
 
 .footer__copyright {
   font-size: 18px;
+  grid-template-columns: ;
 }
 
 .theme_dark .colored-text::after {
